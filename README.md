@@ -52,8 +52,8 @@ make
 
 ### Grep
 ```
-$ cd s21_SimpleBashUtils/src/grep
-$ make
+cd s21_SimpleBashUtils/src/grep
+make
 ```
 
 ## Tests
